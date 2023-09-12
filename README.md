@@ -2,3 +2,5 @@
 Dari berbagai Operator 
 Generate nomor awal seperti nomor telkomsel "0852" + "generate nomor random" 
 nomor akan berisi 10-12 angka
+
+# Untuk memulai program Jalankan Progam didalam folder dist
