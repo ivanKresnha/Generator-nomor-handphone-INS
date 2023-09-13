@@ -4,7 +4,12 @@ Generate nomor awal seperti nomor telkomsel "0852" + "generate nomor random"
 nomor akan berisi 10-12 angka
 
 # Untuk memulai program Jalankan Progam didalam folder dist
-
+*Update*
+1. Telkomsel
+2. Indosat
+3. Axia
+4. XL
+   
 Penyedia (untuk saat ini)
 1. Telkomsel
 2. IndosatM2
