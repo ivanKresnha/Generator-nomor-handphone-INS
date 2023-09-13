@@ -23,5 +23,3 @@ Penyedia (untuk saat ini)
 10. Three
 0. Exit
 
-Data dari 2017
-https://masuksini.info/berita/iptek/daftar-nomor-awal-operator-seluler-indonesia
