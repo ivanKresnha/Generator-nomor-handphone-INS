@@ -5,11 +5,14 @@ nomor akan berisi 10-12 angka
 
 # Untuk memulai program Jalankan Progam didalam folder dist
 *Update*
+Penyedia:
 1. Telkomsel
 2. Indosat
 3. Axia
 4. XL
-   
+
+
+*Outdated*
 Penyedia (untuk saat ini)
 1. Telkomsel
 2. IndosatM2
